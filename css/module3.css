@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    font-family: Times;
+  }
+  body {
+  	background-color: #a2dbeb;
+  }
+ .all{
+  width: 100%;
+ }
+/* body */
+.header
+{
+ color: black;
+ border: 1px solid black;
+ padding: 15px;
+ border-radius: 0.5rem;
+ background-color: #f0adee;
+}
+.cookies
+{
+	padding: 10px;
+	margin: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 150%;
+	text-shadow: 1px 1px 1px black;
+}
+
+.nav-item
+{
+	text-align: center;
+}
+h2
+{
+	margin-top: 15px; 
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	padding:15px;
+
+}
+section
+{
+	background-color: #f0adee;
+	padding: 20px;
+	border: 1px solid black;
+	margin: 25px;
+	border-radius: 0.5rem;
+	box-shadow: 0 0 10px black;
+}
+section h4
+{
+    font-style: Times;
+    font-weight: bold;
+    padding: 10px;
+}
+
+	
+
+
+
+
